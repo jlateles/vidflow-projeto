@@ -4,3 +4,7 @@ npx json-server --watch backend/videos.json
 npm run api-local 
 
 npm run preview
+
+
+link de local: "http://localhost:3000/"
+link de produção : "https://gist.githubusercontent.com/jlateles/d4fb59e4341cf11f040cfc282c652eab/raw/63c7fafc70bd5790e12e3509d02a32202b10bbc4/vidflow.txt"

@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-vidflow-projeto-base",
+  "name": "nodejs-vidflow",
   "private": true,
   "version": "1.0.0",
   "description": "![Imagem de capa do curso. O título é \"3519 - Node.js e terminal\" e o subtítulo é \"Dominando o ambiente de desenvolvimento front-end\".](./thumb.png)",
@@ -10,6 +10,7 @@
     "lint": "eslint .",
     "dev": "build",
     "build": "vite build",
+    "build-preview": "vite build --watch",
     "preview": "vite preview"
   },
   "author": "",
