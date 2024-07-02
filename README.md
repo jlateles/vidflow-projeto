@@ -4,7 +4,7 @@
 
 O VidFlow é uma plataforma de compartilhamento de vídeos.
 
-![Captura de tela do Vidflow.](./vidflow.png)
+![Captura de tela do Vidflow.](./img/layout-vidflow.png)
 
 ## 🔨 Funcionalidades do projeto
 
@@ -20,10 +20,6 @@ Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas
 - NPM
 - Os pacotes ESLint, Prettier, JSON Server, Axios e Vite
 - Vercel
-
-## Link do Figma
-
-[Acesse o Figma do Vidflow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
 
 ## 🛠️ Abrir e rodar o projeto
 
