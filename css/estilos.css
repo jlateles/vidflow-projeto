@@ -94,12 +94,12 @@ body {
     padding: 13px 30px 13px 13px;
 }
 
-.cabecalho__avatar {
-    background-image: url(../img/topbar/avatar-julia.jpg);
+ /* .cabecalho__avatar {
+    background-image: url(../img/topbar/Avatar.png );
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 33px;
-}
+} */
 
 .cabecalho__switch {
     position: relative;
