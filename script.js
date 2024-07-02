@@ -3,7 +3,8 @@ const containerVideos = document.querySelector(".videos__container");
 
 async function buscarEMostrarVideos(){
     try{
-        const busca = await fetch("http://localhost:3000/videos");
+        const busca = await fetch( 
+            "https://gist.githubusercontent.com/jlateles/d4fb59e4341cf11f040cfc282c652eab/raw/63c7fafc70bd5790e12e3509d02a32202b10bbc4/vidflow.txt");
         const videos = await busca.json();
 
             videos.forEach((video)=> {

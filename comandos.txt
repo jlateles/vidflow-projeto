@@ -1,1 +1,6 @@
 npx json-server --watch backend/videos.json
+
+
+npm run api-local 
+
+npm run preview
